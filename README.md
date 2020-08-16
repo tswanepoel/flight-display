@@ -269,7 +269,7 @@ However, given the narrow purpose of the worker, a simple [Azure function](https
 > Azure Kubernetes Service (AKS)? Azure AppService? Azure Contianer Registry? Azure Traffic Manager? WAF? Nginx ingress, of course. Rate limiting? SSL termination, probably. Compression.
 
 ### Monitoring
-> Application Insights? Prometheus+Grafana? HealtCheck UI?
+> Application Insights? Prometheus+Grafana? HealthCheck UI?
 
 #### Smoke tests
 > Azure Pipelines?
