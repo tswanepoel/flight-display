@@ -287,4 +287,4 @@ However, given the narrow purpose of the worker, a simple [Azure function](https
 > GitHub flow (or Git flow, if you must).
 
 ## Continuous integration
-> Build PRs, use GitVersion for automatic versioning, run unit tests and integration tests, build & publish artefacts only once, blue/green deployment means to spin up and running canary tests on new env before tearing down env.
+> Build PRs, use GitVersion for automatic versioning, run unit tests and integration tests, build & publish artefacts only once, blue/green deployment means to spin up and run canary tests on new env before tearing down old env.
